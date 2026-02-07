@@ -1,6 +1,17 @@
-# lemp-php-deploy
+# 🚀 LEMP PHP Deployment
+### Production-Ready PHP Application Deployment using LEMP Stack
 
-> **Friendly repo name:** `lemp-php-deploy`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60"/>
+</p>
+
+<p align="center">
+  <b>Linux • Nginx • PHP-FPM • MySQL/MariaDB</b><br/>
+  Built by <b>Faisal Malik</b>
+</p>
 
 ---
 
